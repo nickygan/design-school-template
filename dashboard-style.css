@@ -1,0 +1,34 @@
+.default-icon-crud li i {
+    color: #73879C;
+    cursor: pointer;
+}
+.title-component > h2 {
+    margin: 10px 0;
+}
+
+fieldset {
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border: #E6E9ED solid 1px;
+    padding: 15px;
+    background-color: #F7F7F7;
+    margin-bottom: 10px;
+}
+
+legend {
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: #E6E9ED solid 1px;
+    width: auto;
+    background-color: #FFF;
+}
+.panel_toolbox>li>a:hover {
+    background: none;
+}
+.panel_toolbox>li>a i:hover {
+    color: #3764FD;
+}
